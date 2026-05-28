@@ -1,6 +1,6 @@
-📊 Automação de Processamento de Planilhas com Python
+#📊 Automação de Processamento de Planilhas com Python
 
-📌 Sobre o Projeto
+##📌 Sobre o Projeto
 
 Este projeto foi desenvolvido em Python com foco na automação de processos empresariais envolvendo planilhas Excel.
 
@@ -8,7 +8,7 @@ Muitas empresas ainda utilizam o Excel como principal ferramenta para geração 
 
 Além do processamento, o sistema também permite a exportação automática dos dados tratados, reduzindo tarefas manuais e aumentando a eficiência operacional.
 
-🚀 Funcionalidades
+##🚀 Funcionalidades
 Leitura automatizada de planilhas Excel (.xlsx)
 Filtragem dinâmica de dados
 Tratamento e manipulação de informações com Pandas
@@ -16,9 +16,9 @@ Exportação automática de relatórios
 Estrutura modular em Python
 Processamento rápido de grandes volumes de dados
 
-🛠️ Tecnologias Utilizadas
+##🛠️ Tecnologias Utilizadas
 Linguagem: Python
 Biblioteca: Pandas / openpyxl
 
-👨‍💻 Autor
+##👨‍💻 Autor
 Renan Iamato Yokoyama
